@@ -27,7 +27,7 @@ You can edit the content inside index.html to update:
 
 ## Demo
 
-Open index.html in a browser.
+Open assignment-html-resume-page/resume.html) in a browser.
 
 <img width="1921" height="1601" alt="image" src="https://github.com/user-attachments/assets/88f56919-fd68-42fc-bb2f-cd8393551791" />
 
