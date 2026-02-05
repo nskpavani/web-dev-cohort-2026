@@ -1,6 +1,7 @@
 # Cursor Landing Page Clone
 
 A replica of the Cursor IDE landing page built with HTML and CSS.
+<img width="1921" height="7092" alt="image" src="https://github.com/user-attachments/assets/9ac96e4d-8dc3-4c00-a692-0f924b4260b5" />
 
 ## Features
 
