@@ -1,34 +1,8 @@
-# Single Page Resume Website
+# Web Dev Cohort 2026
 
-This project is a single-page HTML resume website built using semantic HTML and simple CSS styling.
+This repository contains assignments and projects for the Web Dev Cohort 2026.
 
-## Features
+## Assignments
 
-- Clean single-page layout
-- Semantic HTML structure
-- About, Skills, Experience, Projects, Education, Contact sections
-- Tables and lists used properly
-- Responsive centered layout
-
-## Setup
-
-1. Download or clone this repository
-2. Open index.html in your browser
-
-## Usage
-
-You can edit the content inside index.html to update:
-- Name and header details
-- Skills
-- Experience
-- Projects
-- Education
-- Contact info
-
-## Demo
-
-Open assignment-html-resume-page/resume.html in a browser.
-
-<img width="1921" height="1601" alt="image" src="https://github.com/user-attachments/assets/c929ca62-edff-4aaa-a7ff-3f59725a1d01" />
-
-
+- [Cursor Landing Page](assignment-cursor-landing-page/doc.md)
+- [HTML Resume Page](assignment-html-resume-page/README.md)
