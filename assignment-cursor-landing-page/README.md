@@ -37,4 +37,4 @@ A replica of the Cursor IDE landing page built with HTML and CSS.
 
 ## Demo
 
-Open `landing-page.html` in a browser to view the landing page.
+Download 'assignment-cursor-landing-page' folder and  Open `landing-page.html` in a browser to view the Curosor look alike landing  page.
