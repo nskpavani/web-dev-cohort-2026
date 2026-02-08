@@ -26,8 +26,8 @@ A replica of the Cursor IDE landing page built with HTML and CSS.
 
 ## Setup
 
-1. Clone or download this repository
-2. Open `landing-page.html` in your browser
+**1. Clone or download this repository
+2. Open `landing-page.html` in your browser**
 
 ## Technologies Used
 
